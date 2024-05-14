@@ -10,7 +10,6 @@ namespace DungeonCrawler.Code.GameplayMVC
 
         public static readonly int bossScale = 20;
 
-		public static readonly int bombScale = 6;
         public static readonly double diceScale = 1.5;
 
 		public static readonly Vector2 startPosition = new Vector2(2, 4);
